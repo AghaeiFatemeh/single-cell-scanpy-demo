@@ -20,3 +20,6 @@ venv/
 # os
 .DS_Store
 Thumbs.db
+.Rproj.user/
+.Rhistory
+.RData
