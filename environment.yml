@@ -1,0 +1,15 @@
+name: sc-demo
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - scanpy
+  - anndata
+  - leidenalg
+  - python-igraph
+  - jupyterlab
+  - matplotlib-base
+  - pandas
+  - numpy
+  - pip
