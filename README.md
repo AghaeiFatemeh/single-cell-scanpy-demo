@@ -12,7 +12,7 @@ then applies the same workflow independently to a different 10x PBMC dataset.
 ## Notebooks
 
 - `01_scrna_pbmc3k.ipynb` - learning walkthrough on the classic 3k PBMC dataset.
-- `02_scrna_pbmc1k_yourturn.ipynb` - completed independent analysis on 10x PBMC
+- `02_scrna_pbmc1k_v3_analysis.ipynb` - completed independent analysis on 10x PBMC
   1k v3 data, including my QC choices, clustering decision and annotations.
 
 ## Data

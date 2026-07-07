@@ -10,10 +10,6 @@ results/
 .jupyter-data/
 .matplotlib/
 
-# local agent/tool state
-.agents/
-.codex/
-
 # python
 __pycache__/
 *.pyc
